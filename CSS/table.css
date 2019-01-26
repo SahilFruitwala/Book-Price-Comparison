@@ -1,0 +1,27 @@
+.main_table
+{
+	width:80vw;
+	background:white;
+	transition: box-shadow .3s;
+}
+.main_table:hover 
+{	
+  	box-shadow: 0 0 20px #EEEEEE; 
+}
+
+.main_table th
+{
+	background-color:#DCDCDC;
+	height: 60px;
+}
+
+.main_table tr
+{
+	height: 60px;
+}
+.main_table td
+{
+	width : 20vw;
+	text-align : center;
+}
+
